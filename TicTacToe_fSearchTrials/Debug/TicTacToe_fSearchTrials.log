@@ -1,0 +1,13 @@
+﻿  search.cpp
+c:\users\folling\documents\visual studio 2017\projects\tictactoe_fsearchtrials\tictactoe_fsearchtrials\search.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\folling\documents\visual studio 2017\projects\tictactoe_fsearchtrials\tictactoe_fsearchtrials\search.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\folling\documents\visual studio 2017\projects\tictactoe_fsearchtrials\tictactoe_fsearchtrials\search.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\folling\documents\visual studio 2017\projects\tictactoe_fsearchtrials\tictactoe_fsearchtrials\search.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\folling\documents\visual studio 2017\projects\tictactoe_fsearchtrials\tictactoe_fsearchtrials\search.cpp(91): warning C4018: '<': signed/unsigned mismatch
+  board.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+  Generating Code...
+  TicTacToe_fSearchTrials.vcxproj -> C:\Users\Folling\documents\visual studio 2017\Projects\TicTacToe_fSearchTrials\Debug\TicTacToe_fSearchTrials.exe
+  TicTacToe_fSearchTrials.vcxproj -> C:\Users\Folling\documents\visual studio 2017\Projects\TicTacToe_fSearchTrials\Debug\TicTacToe_fSearchTrials.pdb (Partial PDB)
